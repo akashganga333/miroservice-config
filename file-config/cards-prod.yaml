@@ -4,7 +4,7 @@ cards:
   details: "Prod Microservice for Cards"
   contact-info:
 #    email: "cards@gmail"
-    email: "4d13eb09a35307341af455c75ccfbfdef073a3dcd08be3a7b4b1653c6e1af332"
+    email: "{cipher}4d13eb09a35307341af455c75ccfbfdef073a3dcd08be3a7b4b1653c6e1af332"
     location: "Pune Cards"
   phone-no:
     num1: "123123123"
