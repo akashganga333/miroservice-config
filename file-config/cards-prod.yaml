@@ -1,7 +1,7 @@
 build:
   version: 1.3.0
 cards:
-  details: "Prod Microservice for Cards"
+  details: "Production Microservice for Cards"
   contact-info:
 #    email: "cards@gmail"
     email: "{cipher}4d13eb09a35307341af455c75ccfbfdef073a3dcd08be3a7b4b1653c6e1af332"
