@@ -1,7 +1,7 @@
 build:
   version: 1.3.0
 accounts:
-  details: "Prod Microservice for Accounts"
+  details: "Production Microservice for Accounts"
   contact-info:
     email: "prod@gmail"
     location: "prod"
