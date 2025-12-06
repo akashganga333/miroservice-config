@@ -1,0 +1,7 @@
+server:
+  port: 8070
+spring:
+  eureka:
+    client:
+      register-with-eureka: false
+      fetch-registry: false
